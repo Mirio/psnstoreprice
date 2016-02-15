@@ -4,7 +4,7 @@ setup(
     name='psnstoreprice',
     packages=['psnstoreprice'],
     package_dir={'psnstoreprice': 'psnstoreprice'},
-    version='0.1',
+    version='0.1.1',
     install_requires=['dryscrape', 'beautifulsoup4'],
     description='Find the price on PlayStation Store from url',
     author='Alessandro Sbarbati',

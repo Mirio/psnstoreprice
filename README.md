@@ -3,7 +3,7 @@ This module find the price from url given
 
 Compatible with all amazon store
 
-[![Build Status](https://travis-ci.org/Mirio/psnstoreprice.svg?branch=0.1)](https://travis-ci.org/Mirio/psnstoreprice) [![PyPI](https://img.shields.io/pypi/dm/psnstoreprice.svg)]() [![Github All Releases](https://img.shields.io/github/downloads/mirio/psnstoreprice/total.svg)]() [![Documentation Status](https://readthedocs.org/projects/psnstoreprice/badge/?version=latest)](http://psnstoreprice.readthedocs.org/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/Mirio/psnstoreprice.svg?branch=0.1)](https://travis-ci.org/Mirio/psnstoreprice) [![PyPI](https://img.shields.io/pypi/dm/psnstoreprice.svg)]() [![Github All Releases](https://img.shields.io/github/downloads/mirio/psnstoreprice/total.svg)]() [![Documentation Status](https://readthedocs.org/projects/psnstoreprice/badge/?version=0.1)](http://psnstoreprice.readthedocs.org/en/latest/?badge=0.1)
 [![Coverage Status](https://coveralls.io/repos/github/Mirio/psnstoreprice/badge.svg?branch=0.1)](https://coveralls.io/github/Mirio/psnstoreprice?branch=0.1)
 
 
