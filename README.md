@@ -18,7 +18,7 @@ GitHub: https://github.com/Mirio/psnstoreprice
 ## Requirement
 Python 3.x
 
-Python Library = [ 'webkit_server', 'beautifulsoup4' ]
+Python Library = [ 'dryscrape', 'beautifulsoup4' ]
 
 ## How to install
 ```
