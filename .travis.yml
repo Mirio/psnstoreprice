@@ -4,7 +4,7 @@ python:
   - "3.4"
   - "3.5"
 before_install:
-  - sudo apt-get install -y qt5-default libqt5webkit5-dev build-essential python-lxml python-pip xvfb
+  - sudo apt-get install -y xvfb
 install:
   - pip install .
   - pip install coveralls
