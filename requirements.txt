@@ -1,2 +1,2 @@
 beautifulsoup4
-webkit_server
+dryscrape
