@@ -15,7 +15,7 @@ class PsnStorePrice:
         :return: string(url cleaned)
 
         """
-        if "store.playstation.com" in url:
+        if "://store.playstation.com" in url:
             if "cid=" in url:
                 return url
             else:
