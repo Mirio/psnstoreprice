@@ -1,4 +1,4 @@
-## AmazonStorePrice
+## PsnStorePrice
 This module find the price from url given
 
 Compatible with all amazon store
